@@ -34,7 +34,6 @@ void err_quit(const char* msg)
 	exit(1);
 }
 
-
 void err_display(const char* msg)
 {
 	LPVOID IpMsgBuf;
